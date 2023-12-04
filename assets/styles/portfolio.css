@@ -22,7 +22,7 @@ main {
   text-align: center;
   gap: 3rem;
   border: 1px solid gray;
-  background-color: rgb(146, 196, 196);
+  background-color: #92c4c4;
 }
 
 .box-a {
@@ -39,7 +39,7 @@ main {
   flex-direction: column;
   text-align: center;
   border: 1px solid gray;
-  background-color: rgb(221, 240, 240);
+  background-color: #ddf0f0;
 }
 
 .box-c {
