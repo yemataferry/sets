@@ -1,0 +1,26 @@
+#contain-num {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.boxnum {
+  border: 1px solid gray;
+  padding: 14px;
+  margin: 5px;
+  text-align: center;
+  width: 78px;
+}
+
+.odd {
+  background-color: yellow;
+}
+
+.even {
+  background-color: green;
+}
+
+.prime {
+  background-color: red;
+}
