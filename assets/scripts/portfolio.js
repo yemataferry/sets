@@ -1,11 +1,10 @@
-let box = document.getElementsByTagName('body')
+// let box = document.getElementsByTagName('body')
 
-const band_a = document.getElementById ('heading')
+const band_a = document.getElementById ('heading-b')
 heading.style.backgroundColor = 'gray';
 heading.style.textAlignment = 'center';
-heading.style.margin = '25%';
+// heading.style.margin = '25%';
 heading.style.display = 'flex';
 heading.style.flexDirection = 'column';
 
-const band_b = document.getElementById ('heading-b')
-heading-b.style.backgroundColor = 'green'
+// const band_b = document.getElementById ('heading-b')
