@@ -7,8 +7,9 @@ heading.style.textAlignment = "center";
 heading.style.display = "flex";
 heading.style.flexDirection = "column";
 
-// const line = document.getElementsById ('heading')
-
+// const line = document.getElementsById ('options')
+// options.style.display = "flex";
+// options.style.flexDirection = "row";
 
 function changeColor() {
     const randomColor = getColor();
